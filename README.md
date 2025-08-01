@@ -6,3 +6,4 @@ De igual forma de agregará el Documento del proyecto final.
 
 [Corrección Problema #4 - Parcial #1 DSIM - Franklin Guzmán  (2).pdf](https://github.com/user-attachments/files/21541655/Correccion.Problema.4.-.Parcial.1.DSIM.-.Franklin.Guzman.2.pdf)
 
+[Modelica.zip](https://github.com/user-attachments/files/21541722/Modelica.zip)
